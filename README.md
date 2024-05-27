@@ -4,14 +4,23 @@
 Hi, I'm Harsh Gupta, a highly skilled data science and computer application student at MIT, Manipal. Proficient in Python, C++, HTML, CSS, SQL, and JAVA, I bring expertise in executing successful projects, such as fake profile detection, stock prediction with LSTM, and Titanic classification.
 
 🔍 Data Science Expertise
+
 Utilized Scikit, TensorFlow, Pandas, and Numpy for project success.
+
 Real-world experience gained through an internship with DRDO, contributing to challenging projects.
+
 💻 Full-Stack Web Development
+
 Extended skills to include full-stack website deployment using Node.js and API tools.
+
 Aiming to contribute not only to analytics but also to web application development and deployment.
+
 🌐 Valuable Asset to Projects
+
 Proven track record of success and technical proficiency.
+
 Strong soft skills in multitasking, leadership, event management, and conceptualization.
+
 
 
 ## 🌐 Socials:
